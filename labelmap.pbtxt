@@ -1,0 +1,71 @@
+item {
+  id: 1
+  name: 'elezen_m'
+}
+
+item {
+  id: 2
+  name: 'elezen_f'
+}
+
+item {
+  id: 3
+  name: 'hyur_m'
+}
+
+item {
+  id: 4
+  name: 'hyur_f'
+}
+
+
+item {
+  id: 5
+  name: 'lalafell_m'
+}
+
+item {
+  id: 6
+  name: 'lalafell_f'
+}
+
+item {
+  id: 7
+  name: 'miqote_m'
+}
+
+item {
+  id: 8
+  name: 'miqote_f'
+}
+
+item {
+  id: 9
+  name: 'roegadyn_m'
+}
+
+item {
+  id: 10
+  name: 'roegadyn_f'
+}
+
+item {
+  id: 11
+  name: 'au_ra_m'
+}
+
+item {
+  id: 12
+  name: 'au_ra_f'
+}
+
+item {
+  id: 13
+  name: 'viera_f'
+}
+
+item {
+  id: 14
+  name: 'hrothgar_m'
+}
+
